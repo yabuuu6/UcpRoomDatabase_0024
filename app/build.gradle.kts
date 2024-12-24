@@ -4,7 +4,6 @@ plugins {
     id("com.google.devtools.ksp")
 
 }
-
 android {
     namespace = "com.example.ucp2"
     compileSdk = 35
